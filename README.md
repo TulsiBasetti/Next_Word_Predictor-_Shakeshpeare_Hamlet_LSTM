@@ -29,7 +29,5 @@ To set up the environment for this project, install the necessary dependencies u
     ```bash
     jupyter notebook code.ipynb
 
-4. Follow the instructions within the notebook to train the model and generate word predictions.
-
 ## 📈 Training and Evaluation
 The model's performance is visualized through the Training_Loss_And_Accuracy_Plot.png, which shows the loss and accuracy metrics over the training epochs.
